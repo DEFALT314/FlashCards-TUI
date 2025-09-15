@@ -1,0 +1,66 @@
+[
+  {
+    "question": "Polska",
+    "answer": "Warszawa"
+  },
+  {
+    "question": "Niemcy",
+    "answer": "Berlin"
+  },
+  {
+    "question": "Francja",
+    "answer": "Paryż"
+  },
+  {
+    "question": "Wielka Brytania",
+    "answer": "Londyn"
+  },
+  {
+    "question": "Hiszpania",
+    "answer": "Madryt"
+  },
+  {
+    "question": "Włochy",
+    "answer": "Rzym"
+  },
+  {
+    "question": "Czechy",
+    "answer": "Praga"
+  },
+  {
+    "question": "Norwegia",
+    "answer": "Oslo"
+  },
+  {
+    "question": "Szwecja",
+    "answer": "Sztokholm"
+  },
+  {
+    "question": "Grecja",
+    "answer": "Ateny"
+  },
+  {
+    "question": "Portugalia",
+    "answer": "Lizbona"
+  },
+  {
+    "question": "Irlandia",
+    "answer": "Dublin"
+  },
+  {
+    "question": "Holandia",
+    "answer": "Amsterdam"
+  },
+  {
+    "question": "Belgia",
+    "answer": "Bruksela"
+  },
+  {
+    "question": "Szwajcaria",
+    "answer": "Berno"
+  },
+  {
+    "question": "Austria",
+    "answer": "Wiedeń"
+  }
+]

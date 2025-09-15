@@ -1,0 +1,82 @@
+[
+  {
+    "question": "apple",
+    "answer": "jabłko"
+  },
+  {
+    "question": "car",
+    "answer": "samochód"
+  },
+  {
+    "question": "house",
+    "answer": "dom"
+  },
+  {
+    "question": "book",
+    "answer": "książka"
+  },
+  {
+    "question": "water",
+    "answer": "woda"
+  },
+  {
+    "question": "to see",
+    "answer": "widzieć"
+  },
+  {
+    "question": "to go",
+    "answer": "iść, jechać"
+  },
+  {
+    "question": "to have",
+    "answer": "mieć"
+  },
+  {
+    "question": "to want",
+    "answer": "chcieć"
+  },
+  {
+    "question": "good",
+    "answer": "dobry"
+  },
+  {
+    "question": "bad",
+    "answer": "zły"
+  },
+  {
+    "question": "big",
+    "answer": "duży"
+  },
+  {
+    "question": "small",
+    "answer": "mały"
+  },
+  {
+    "question": "Hello",
+    "answer": "Cześć / Dzień dobry"
+  },
+  {
+    "question": "Goodbye",
+    "answer": "Do widzenia"
+  },
+  {
+    "question": "Thank you",
+    "answer": "Dziękuję"
+  },
+  {
+    "question": "Yes",
+    "answer": "Tak"
+  },
+  {
+    "question": "No",
+    "answer": "Nie"
+  },
+  {
+    "question": "What is your name?",
+    "answer": "Jak masz na imię?"
+  },
+  {
+    "question": "How are you?",
+    "answer": "Jak się masz?"
+  }
+]
