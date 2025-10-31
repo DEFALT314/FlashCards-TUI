@@ -4,8 +4,6 @@
 
 The application is written in **Rust** and provides an interactive terminal interface for managing and studying flashcards.
 
----
-
 ## Features
 
 - **Interactive Terminal UI**  
@@ -22,8 +20,6 @@ The application is written in **Rust** and provides an interactive terminal inte
 
 - **Save Progress Automatically**  
   - The application keeps your decks and learning progress across sessions, so you can continue where you left off.
-
----
 
 ## Usage
 
@@ -42,7 +38,6 @@ cargo run --release
 3. **Study Mode**
    The app automatically selects flashcards that are due for review based on the SM-2 algorithm. After reviewing, the flashcard’s next review date is recalculated.
 
----
 
 ## JSON Format for Flashcards
 
@@ -80,7 +75,7 @@ cargo build --release
 cargo run --release
 ```
 
----
+
 
 ## License
 
